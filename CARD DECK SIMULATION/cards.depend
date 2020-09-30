@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1584512518 source:d:\c++\cards\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
