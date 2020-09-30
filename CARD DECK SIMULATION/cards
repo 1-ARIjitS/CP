@@ -1,0 +1,5 @@
+here is a simulation of a card deck which is done by using rand() fuc=nctions in he c programming language
+it is a card deck simulation of the ** 52 DECK CARDS **.
+first a deck of cards is simulated and then the simulation is printed to a **output.txt** folder.
+it is done till the first card matches with the card randomly generated.
+the **output.txt** file contains all the cards simulated till the latter card.
